@@ -19,6 +19,7 @@ import static java.util.Optional.ofNullable;
  * or a proproetary protocol.
  * <p>
  * NO MODIFICATION OF THIS CLASS IS ALLOWED!
+ * herman var her
  */
 @Component
 class ReallyShakyBankingCoreSystemService implements BankingCoreSystmeService {
